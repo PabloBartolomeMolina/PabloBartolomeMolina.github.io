@@ -1,3 +1,6 @@
-theme: jekyll-theme-minimal
-title: Pablo's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: My GitHub Page
+description: Welcome to my GitHub Page
+url: "https://pablobartolomemolina.github.io/"
+baseurl: "" 
+
+theme: jekyll-theme-cayman
